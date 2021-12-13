@@ -9,11 +9,12 @@
 	<link rel="author" href="/wp-content/themes/giggling-squid/humans.txt">
 	<link rel="pingback" href="/xmlrpc.php">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="icon" type="image/png" href="/wp-content/themes/giggling-squid/src/img/favicon.png">
 	<title>Menus &#8211; Giggling Squid</title>
 <meta name="robots" content="max-image-preview:large">
 <link rel="dns-prefetch" href="//kit.fontawesome.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="app-css" href="/wp-content/themes/giggling-squid/static/css/app.775ebc074df4660ead82.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="app-css" href="/wp-content/themes/giggling-squid/static/css/app.2e478424199f2d0784a9.css?ver=5.8.2" type="text/css" media="all">
 <link rel="https://api.w.org/" href="/wp-json/">
 <link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/119">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
@@ -44,7 +45,7 @@
       <div class="left-nav">
         <nav class="left-nav__items">
                       <a class="left-nav__link" href="#">Reservations</a>
-                      <a class="left-nav__link" href="#">Order for home</a>
+                      <a class="left-nav__link" href="/order-for-home/">Order For Home</a>
                       <a class="left-nav__link" href="/menu/">Food Menus</a>
                       <a class="left-nav__link" href="/restaurants/">Locations</a>
                       <a class="left-nav__link" href="/gift-cards/">Gift Cards</a>
@@ -88,7 +89,7 @@
             <img class="right-nav__texture fill-absolute" src="/wp-content/themes/giggling-squid/src/img/background-texture-2.jpg">
 
             <div class="botanical">
-              <img class="botanical__image" src="/wp-content/themes/giggling-squid/src/img/botanical-orchid.png">
+              <img class="botanical__image" src="/wp-content/themes/giggling-squid/src/img/botanical-orchid-menu.png">
             </div>
           </div>
         </div>
@@ -128,31 +129,134 @@
     <div class="k10-html-container"></div>
     <script src="https://menus.tenkites.com/Scripts/_k10.min.js?sbk=20160720"></script>
     <script type="text/javascript">
-        $k10(function() {
-            $k10.ajax({
-                url: 'https://menus.tenkites.com/gigsquid/staging/gswebmenus',
-                type: 'GET',
-                crossDomain: true,
-                success: function(responseData, textStatus, jqXHR) {
-                    var $k10tkHtml = $k10('<div/>', {
-                        html: responseData
-                    });
-                    var headContent = $k10tkHtml.find('.tk-html-header-scripts').html();
-                    var bodyContent = $k10tkHtml.find('.tk-html-body').html();
-                    var bodyScripts = $k10tkHtml.find('.tk-html-body-scripts').html();
-                    $k10('head').append(headContent);
-                    $k10('.k10-html-container').append(bodyContent);
-                    setTimeout(function() {
-                        $k10('body').append(bodyScripts);
-                    }, 50);
-                },
-                error: function(responseData, textStatus, errorThrown) {
-                    console.log('POST failed');
-                }
+        if (typeof $k10 !== 'undefined') {
+            $k10(function() {
+                $k10.ajax({
+                    url: 'https://menus.tenkites.com/gigsquid/staging/gswebmenus',
+                    type: 'GET',
+                    crossDomain: true,
+                    success: function(responseData, textStatus, jqXHR) {
+                        var $k10tkHtml = $k10('<div/>', {
+                            html: responseData
+                        });
+                        var headContent = $k10tkHtml.find('.tk-html-header-scripts').html();
+                        var bodyContent = $k10tkHtml.find('.tk-html-body').html();
+                        var bodyScripts = $k10tkHtml.find('.tk-html-body-scripts').html();
+                        $k10('head').append(headContent);
+                        $k10('.k10-html-container').append(bodyContent);
+                        setTimeout(function() {
+                            $k10('body').append(bodyScripts);
+                        }, 50);
+                    },
+                    error: function(responseData, textStatus, errorThrown) {
+                        console.log('POST failed');
+                    }
+                });
             });
-        });
+        }
     </script>
 </section>
+
+<section class="section image-ticker">
+  <div class="background fill-absolute">
+    <div class="background__grid grid fill-absolute">
+      <div class="background__colour"></div>
+
+      <div class="background__position">
+				<img class="background__texture background__texture--has-description fill-width" src="/wp-content/themes/giggling-squid/src/img/background-texture-5.jpg">
+
+        <div class="botanical">
+          <img class="botanical__image fill-width" src="/wp-content/themes/giggling-squid/src/img/botanical-hibiscus.png">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foreground">
+    <div class="grid grid--padding-x">
+      <div class="image-ticker__title">A taste from the menu, cooked for by our expert Thai chefs</div>
+      <div class="image-ticker__description">
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</p>
+</div>
+    </div>
+
+    <div class="image-ticker__grid grid grid--padding-x">
+              <div class="image-ticker__position image-ticker__position--1">
+          <div class="image-ticker__aspect" style="--aspect-ratio: 1;">
+            <div class="carousel">
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/HeroImageMobile-544x544-c-default.webp">
+                </div>
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/HeroImage-544x544-c-default.webp">
+                </div>
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/SampleImage1-544x544-c-default.jpg">
+                </div>
+                          </div>
+          </div>
+        </div>
+              <div class="image-ticker__position image-ticker__position--2">
+          <div class="image-ticker__aspect" style="--aspect-ratio: 1;">
+            <div class="carousel">
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/HeroImage-544x544-c-default.webp">
+                </div>
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/SampleImage1-544x544-c-default.jpg">
+                </div>
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/HeroImageMobile-544x544-c-default.webp">
+                </div>
+                          </div>
+          </div>
+        </div>
+              <div class="image-ticker__position image-ticker__position--3">
+          <div class="image-ticker__aspect" style="--aspect-ratio: 1;">
+            <div class="carousel">
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/SampleImage1-544x544-c-default.jpg">
+                </div>
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/HeroImageMobile-544x544-c-default.webp">
+                </div>
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/HeroImage-544x544-c-default.webp">
+                </div>
+                          </div>
+          </div>
+        </div>
+              <div class="image-ticker__position image-ticker__position--4">
+          <div class="image-ticker__aspect" style="--aspect-ratio: 1;">
+            <div class="carousel">
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/HeroImageMobile-544x544-c-default.webp">
+                </div>
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/HeroImage-544x544-c-default.webp">
+                </div>
+                              <div class="image hairline-border">
+                  <img class="fill-width" src="/wp-content/uploads/2021/11/SampleImage1-544x544-c-default.jpg">
+                </div>
+                          </div>
+          </div>
+        </div>
+          </div>
+
+    <div class="carousel__controls grid grid--padding-x">
+  
+  <div class="nav">
+    <button class="nav__button nav__button--previous">
+      <img class="nav__arrow nav__arrow--previous" src="/wp-content/themes/giggling-squid/src/img/nav-arrow.svg">
+    </button>
+    <button class="nav__button nav__button--next">
+      <img class="nav__arrow nav__arrow--next" src="/wp-content/themes/giggling-squid/src/img/nav-arrow.svg">
+    </button>
+  </div>
+</div>
+  </div>
+</section>
+
 	
     
           <footer class="section footer">
@@ -174,7 +278,7 @@
 
       <nav class="top-nav__cell top-nav__cell--menu-1">
                   <a class="top-nav__link" href="#">Book a table</a>
-                  <a class="top-nav__link" href="#">Order for home</a>
+                  <a class="top-nav__link" href="/order-for-home/">Order For Home</a>
                   <a class="top-nav__link" href="/restaurants/">Locations</a>
               </nav>
 
@@ -215,7 +319,7 @@
 
     <a class="bottom-nav__credit" href="https://nutbot.co.uk/" target="_blank">Site by Nutbot</a>
   </div>
-</footer>      <script type="text/javascript" src="/wp-content/themes/giggling-squid/static/js/app.775ebc074df4660ead82.js" id="app-js"></script>
+</footer>      <script type="text/javascript" src="/wp-content/themes/giggling-squid/static/js/app.2e478424199f2d0784a9.js" id="app-js"></script>
 <script type="text/javascript" src="https://kit.fontawesome.com/c191b8fad1.js" id="fontawesome-js"></script>
 
       </body>
