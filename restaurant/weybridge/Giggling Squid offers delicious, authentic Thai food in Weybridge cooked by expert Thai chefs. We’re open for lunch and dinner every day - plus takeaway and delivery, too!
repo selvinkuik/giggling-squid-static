@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/restaurant/weybridge/Giggling%20Squid%20offers%20delicious,%20authentic%20Thai%20food%20in%20Weybridge%20cooked%20by%20expert%20Thai%20chefs.%20We%E2%80%99re%20open%20for%20lunch%20and%20dinner%20every%20day%20-%20plus%20takeaway%20and%20delivery,%20too">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/restaurant/weybridge/Giggling%20Squid%20offers%20delicious,%20authentic%20Thai%20food%20in%20Weybridge%20cooked%20by%20expert%20Thai%20chefs.%20We%E2%80%99re%20open%20for%20lunch%20and%20dinner%20every%20day%20-%20plus%20takeaway%20and%20delivery,%20too";
+		</script>
+
+		<p>You are being redirected to <a href="/restaurant/weybridge/Giggling%20Squid%20offers%20delicious,%20authentic%20Thai%20food%20in%20Weybridge%20cooked%20by%20expert%20Thai%20chefs.%20We%E2%80%99re%20open%20for%20lunch%20and%20dinner%20every%20day%20-%20plus%20takeaway%20and%20delivery,%20too">/restaurant/weybridge/Giggling%20Squid%20offers%20delicious,%20authentic%20Thai%20food%20in%20Weybridge%20cooked%20by%20expert%20Thai%20chefs.%20We%E2%80%99re%20open%20for%20lunch%20and%20dinner%20every%20day%20-%20plus%20takeaway%20and%20delivery,%20too</a></p>
+	</body>
+</html>
