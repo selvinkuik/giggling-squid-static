@@ -1,192 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/restaurant/wandsworth/</loc>
-		<lastmod>2022-01-11T20:38:39+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/acton/</loc>
-		<lastmod>2022-01-12T11:32:03+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/chislehurst/</loc>
-		<lastmod>2022-01-14T11:26:33+00:00</lastmod>
+		<loc>/restaurant/sevenoaks/</loc>
+		<lastmod>2022-01-15T14:24:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/bath/</loc>
-		<lastmod>2022-01-14T11:27:42+00:00</lastmod>
+		<lastmod>2022-01-17T11:42:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/beaconsfield/</loc>
-		<lastmod>2022-01-14T11:28:01+00:00</lastmod>
+		<lastmod>2022-01-17T11:43:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/berkhamsted/</loc>
-		<lastmod>2022-01-14T11:28:21+00:00</lastmod>
+		<lastmod>2022-01-17T11:43:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/billericay/</loc>
-		<lastmod>2022-01-14T11:28:50+00:00</lastmod>
+		<lastmod>2022-01-17T11:43:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/bishop-stortford/</loc>
-		<lastmod>2022-01-14T11:29:10+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/brent-cross/</loc>
-		<lastmod>2022-01-14T11:30:08+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/brentwood/</loc>
-		<lastmod>2022-01-14T11:30:34+00:00</lastmod>
+		<lastmod>2022-01-17T11:44:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/brighton/</loc>
-		<lastmod>2022-01-14T11:30:48+00:00</lastmod>
+		<lastmod>2022-01-17T11:47:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/bury-st-edmunds/</loc>
-		<lastmod>2022-01-14T11:31:05+00:00</lastmod>
+		<lastmod>2022-01-17T11:47:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/cambridge/</loc>
-		<lastmod>2022-01-14T11:31:24+00:00</lastmod>
+		<lastmod>2022-01-17T11:47:51+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/chelmsford/</loc>
-		<lastmod>2022-01-14T11:31:40+00:00</lastmod>
+		<lastmod>2022-01-17T11:48:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/cheltenham/</loc>
-		<lastmod>2022-01-14T11:31:55+00:00</lastmod>
+		<lastmod>2022-01-17T11:48:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/chichester/</loc>
-		<lastmod>2022-01-14T11:32:08+00:00</lastmod>
+		<lastmod>2022-01-17T11:48:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/chislehurst/</loc>
+		<lastmod>2022-01-17T11:49:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/clifton/</loc>
-		<lastmod>2022-01-14T11:32:40+00:00</lastmod>
+		<lastmod>2022-01-17T11:49:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/esher/</loc>
-		<lastmod>2022-01-14T11:33:11+00:00</lastmod>
+		<lastmod>2022-01-17T11:49:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/farnham/</loc>
-		<lastmod>2022-01-14T11:33:44+00:00</lastmod>
+		<lastmod>2022-01-17T11:49:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/guildford/</loc>
-		<lastmod>2022-01-14T11:34:18+00:00</lastmod>
+		<lastmod>2022-01-17T11:49:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/harborne/</loc>
-		<lastmod>2022-01-14T11:34:41+00:00</lastmod>
+		<lastmod>2022-01-17T11:51:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/harpenden/</loc>
-		<lastmod>2022-01-14T11:35:40+00:00</lastmod>
+		<lastmod>2022-01-17T11:52:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/henley/</loc>
-		<lastmod>2022-01-14T11:36:37+00:00</lastmod>
+		<lastmod>2022-01-17T11:53:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/hornchurch/</loc>
-		<lastmod>2022-01-14T11:36:55+00:00</lastmod>
+		<lastmod>2022-01-17T11:53:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/horsham/</loc>
-		<lastmod>2022-01-14T11:37:16+00:00</lastmod>
+		<lastmod>2022-01-17T11:53:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/hove/</loc>
-		<lastmod>2022-01-14T11:37:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/kingston/</loc>
-		<lastmod>2022-01-14T11:37:54+00:00</lastmod>
+		<lastmod>2022-01-17T11:54:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/leamington-spa/</loc>
-		<lastmod>2022-01-14T11:38:10+00:00</lastmod>
+		<lastmod>2022-01-17T11:54:40+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/leicester/</loc>
-		<lastmod>2022-01-14T11:38:26+00:00</lastmod>
+		<lastmod>2022-01-17T11:54:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/marlow/</loc>
-		<lastmod>2022-01-14T11:38:39+00:00</lastmod>
+		<lastmod>2022-01-17T11:56:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/mere-green/</loc>
-		<lastmod>2022-01-14T11:38:58+00:00</lastmod>
+		<lastmod>2022-01-17T11:56:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/norwich/</loc>
-		<lastmod>2022-01-14T11:39:16+00:00</lastmod>
+		<lastmod>2022-01-17T11:56:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/oxford/</loc>
-		<lastmod>2022-01-14T11:39:35+00:00</lastmod>
+		<lastmod>2022-01-17T11:56:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/reigate/</loc>
-		<lastmod>2022-01-14T11:39:54+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/salisbury/</loc>
-		<lastmod>2022-01-14T11:40:10+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/sevenoaks/</loc>
-		<lastmod>2022-01-14T11:40:30+00:00</lastmod>
+		<lastmod>2022-01-17T11:56:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/stratford-upon-avon/</loc>
-		<lastmod>2022-01-14T11:40:50+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/tunbridge-wells/</loc>
-		<lastmod>2022-01-14T11:41:10+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/welwyn-garden-city/</loc>
-		<lastmod>2022-01-14T11:41:50+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/west-bridgford/</loc>
-		<lastmod>2022-01-14T11:42:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/weybridge/</loc>
-		<lastmod>2022-01-14T11:43:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/wimbledon/</loc>
-		<lastmod>2022-01-14T11:43:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/windsor/</loc>
-		<lastmod>2022-01-14T11:43:52+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/maidstone/</loc>
-		<lastmod>2022-01-14T11:45:39+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/restaurant/harrogate/</loc>
-		<lastmod>2022-01-14T11:46:18+00:00</lastmod>
+		<lastmod>2022-01-17T11:57:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/warwick/</loc>
-		<lastmod>2022-01-14T11:56:32+00:00</lastmod>
+		<lastmod>2022-01-17T11:58:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/west-bridgford/</loc>
+		<lastmod>2022-01-17T11:58:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/weybridge/</loc>
+		<lastmod>2022-01-17T11:59:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/wimbledon/</loc>
+		<lastmod>2022-01-17T11:59:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/windsor/</loc>
+		<lastmod>2022-01-17T11:59:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/restaurant/wokingham/</loc>
-		<lastmod>2022-01-14T11:59:34+00:00</lastmod>
+		<lastmod>2022-01-17T12:02:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/brentwood/</loc>
+		<lastmod>2022-01-17T12:09:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/welwyn-garden-city/</loc>
+		<lastmod>2022-01-17T15:10:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/kingston/</loc>
+		<lastmod>2022-01-18T09:34:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/salisbury/</loc>
+		<lastmod>2022-01-18T10:25:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/tunbridge-wells/</loc>
+		<lastmod>2022-01-18T10:28:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/alderley-edge/</loc>
+		<lastmod>2022-01-18T10:47:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/harrogate/</loc>
+		<lastmod>2022-01-18T10:47:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/wandsworth-delivery/</loc>
+		<lastmod>2022-01-18T11:12:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/acton-delivery/</loc>
+		<lastmod>2022-01-18T11:16:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/restaurant/brent-cross-delivery/</loc>
+		<lastmod>2022-01-18T11:16:43+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
