@@ -1,23 +1,22 @@
 /index.html / 301
-/takeaway* /order-for-home/:splat
-/blog* /news/:splat
-/tag* /news/:splat
-/category* /news/:splat
-/click-collect	/order-for-home/ 301
-/delivery /order-for-home/ 301
-/collect /order-for-home/ 301
-/book /restaurant/ 301
-/privacy-policy /privacy/ 301
-/allergen-charts /allergies/ 301
-/coronavirusupdate /covid-safety/ 301
-/pad-thai-recipe /news/pad-thai-recipe/ 301
-/thai-green-curry-recipe /news/thai-green-curry-recipe/ 301
-/lemongrass-basil-sorbet /news/ 301
-/papaya-salad-recipe /news/ 301
-/thai-pandan-pancake-recipe /news/ 301
-/veganuary-menu-2022 /news/veganuary-menu-2022/ 301
-/menu/acton-delivery /menu/acton/ 301
-/menu/brentcross-delivery /menu/brent-cross/ 301
+/blog* /news/
+/tag* /news/
+/category* /news/
+/click-collect/	/order-for-home/ 301
+/delivery/ /order-for-home/ 301
+/collect/ /order-for-home/ 301
+/book/ /restaurant/ 301
+/takeaway/ /order-for-home/
+/privacy-policy/ /privacy/ 301
+/allergen-charts/ /allergies/ 301
+/our-story/ /news/20-questions-with-cofounders/ 301
+/coronavirusupdate/ /covid-safety/ 301
+/pad-thai-recipe/ /news/pad-thai-recipe/ 301
+/thai-green-curry-recipe/ /news/thai-green-curry-recipe/ 301
+/lemongrass-basil-sorbet/ /news/ 301
+/papaya-salad-recipe/ /news/ 301
+/thai-pandan-pancake-recipe/ /news/ 301
+/veganuary-menu-2022/ /news/veganuary-menu-2022/ 301
 /brighton.html /restaurant/brighton/ 301
 /crawley.html /restaurant/ 301
 /henley.html /restaurant/henley/ 301
@@ -43,43 +42,24 @@
 /branches/tunbridgewells.html /restaurant/tunbridge-wells/ 301
 /Sevenoaks /restaurant/sevenoaks/ 301
 /tunbridge-wells/ /restaurant/tunbridge-wells/ 301
-/deliveroo-for-you /news/ 301
-/easter-copy /news/ 301
-/easter-nondel	/news/ 301
-/eatouttohelpout /news/ 301
-/edge-of-ember	/news/ 301
-/freeforayear /news/ 301
-/gift-voucher-competition /news/ 301
-/its-on-us /news/ 301
-/monthly-prize-draw /news/ 301
-/mood-boosting	/news/ 301
-/pinch-punch /news/ 301
-/pottery-kit /news/ 301
-/aprons /news/ 301
-/blue-monday /news/ 301
-/chefs	/news/ 301
-/wp-content/uploads/2018/02/Bar-Snacks-Menu-Giggling-Squid-Apr-2018.pdf /menu/ 301
-/wp-content/uploads/2018/04/Childrens-Menu-Giggling-Squid-Apr-2018.pdf /menu/ 301
-/wp-content/uploads/2018/04/Lunch-Menu-Giggling-Squid-Apr-2018.pdf /menu/ 301
-/wp-content/uploads/2018/10/GS0013-Xmas-POS-6pp-09_DM_WEB_A.pdf /menu/ 301
-/wp-content/uploads/2018/10/GS0023_xmas-day-A4_03cq.pdf /menu/ 301
-/wp-content/uploads/2019/02/Giggling-Squid-Allergens-Matrix-FEB-2019.pdf /menu/ 301
-/wp-content/uploads/2019/05/GS0079_takeaway_menu_PB1_WEB_01cq_GENERIC.pdf /menu/ 301
-/wp-content/uploads/2019/05/GS0079_takeaway_menu_PB2_WEB_01cq_GENERIC.pdf /menu/ 301
-/wp-content/uploads/2019/05/GS0080_lunch-_menu_PB2_WEB_01cq.pdf /menu/ 301
-/wp-content/uploads/2019/05/GS0081-Kids-Menu_WEB_01cq.pdf /menu/ 301
-/wp-content/uploads/2019/05/GS0084_veggie-_menu_PB1_WEB_01cq.pdf /menu/ 301
-/wp-content/uploads/2019/05/GS0084_veggie-_menu_PB2_WEB_01cq.pdf /menu/ 301
-/wp-content/uploads/2020/03/V4-FEBRUARY-2020-Giggling-Squid-Allergen-Matrix_04DM.pdf /menu/ 301
-/wp-content/uploads/2020/09/allergen-matrix_master_Giggling-Squid_2809.pdf /menu/ 301
-/wp-content/uploads/2020/12/New-Menu-Matrix-2811-November-with-festive-Master-format-1.pdf /menu/ 301
-/wp-content/uploads/2021/03/Allergen-Matrix-24.03.21.pdf /menu/ 301
-
-
-
-
-
-
-
-
-
+/deliveroo-for-you/ /news/ 301
+/easter-copy/ /news/ 301
+/easter-nondel/	/news/ 301
+/eatouttohelpout/ /news/ 301
+/edge-of-ember/	/news/ 301
+/freeforayear/ /news/ 301
+/gift-voucher-competition/ /news/ 301
+/its-on-us/ /news/ 301
+/monthly-prize-draw/ /news/ 301
+/mood-boosting/	/news/ 301
+/pinch-punch/ /news/ 301
+/pottery-kit/ /news/ 301
+/aprons/ /news/ 301
+/blue-monday/ /news/ 301
+/chefs/	/news/ 301
+/wp-content/uploads/2016* /menu/ 301
+/wp-content/uploads/2018* /menu/ 301
+/wp-content/uploads/2019* /menu/ 301
+/wp-content/uploads/2020* /menu/ 301
+/wp-content/uploads/2020* /menu/ 301
+/wp-content/uploads/2021* /menu/ 301
