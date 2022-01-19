@@ -1,71 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.gigglingsquid.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://www.gigglingsquid.com/</loc>
 		<lastmod>2022-01-18T17:25:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/news/</loc>
+		<loc>https://www.gigglingsquid.com/news/</loc>
 		<lastmod>2022-01-17T16:08:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/careers/</loc>
+		<loc>https://www.gigglingsquid.com/careers/</loc>
 		<lastmod>2022-01-18T17:32:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/covid-safety/</loc>
+		<loc>https://www.gigglingsquid.com/covid-safety/</loc>
 		<lastmod>2022-01-18T18:26:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gender-pay-gap-report/</loc>
+		<loc>https://www.gigglingsquid.com/gender-pay-gap-report/</loc>
 		<lastmod>2022-01-18T18:27:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gift-cards/</loc>
+		<loc>https://www.gigglingsquid.com/gift-cards/</loc>
 		<lastmod>2022-01-18T18:29:46+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/GS_GiftCards_DesktopHeader_TC_041121_v2-01.png</image:loc>
+			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/GS_GiftCards_DesktopHeader_TC_041121_v2-01.png</image:loc>
 			<image:title><![CDATA[GS_GiftCards_DesktopHeader_TC_041121_v2-01]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>/menu/</loc>
+		<loc>https://www.gigglingsquid.com/menu/</loc>
 		<lastmod>2022-01-18T18:31:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/modern-slavery-policy/</loc>
+		<loc>https://www.gigglingsquid.com/modern-slavery-policy/</loc>
 		<lastmod>2022-01-18T18:33:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/sustainability/</loc>
+		<loc>https://www.gigglingsquid.com/sustainability/</loc>
 		<lastmod>2022-01-18T18:39:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/terms-conditions/</loc>
+		<loc>https://www.gigglingsquid.com/terms-conditions/</loc>
 		<lastmod>2022-01-18T18:53:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/allergies/</loc>
+		<loc>https://www.gigglingsquid.com/allergies/</loc>
 		<lastmod>2022-01-18T19:00:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/privacy/</loc>
+		<loc>https://www.gigglingsquid.com/privacy/</loc>
 		<lastmod>2022-01-18T19:58:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/contact/</loc>
+		<loc>https://www.gigglingsquid.com/contact/</loc>
 		<lastmod>2022-01-19T08:34:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/frequently-asked-questions/</loc>
+		<loc>https://www.gigglingsquid.com/frequently-asked-questions/</loc>
 		<lastmod>2022-01-19T10:37:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/order-for-home/</loc>
+		<loc>https://www.gigglingsquid.com/order-for-home/</loc>
 		<lastmod>2022-01-19T11:33:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/restaurant/</loc>
+		<loc>https://www.gigglingsquid.com/restaurant/</loc>
 		<lastmod>2022-01-19T11:33:59+00:00</lastmod>
 	</url>
 </urlset>
