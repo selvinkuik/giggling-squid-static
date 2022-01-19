@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/news/20-questions-with-cofounders/</loc>
-		<lastmod>2022-01-17T16:44:18+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/Giggling-Squid-AndyPranee-Carousel-1.jpg</image:loc>
-			<image:title><![CDATA[Giggling-Squid-Andy&amp;Pranee-Carousel-1]]></image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>/news/veganuary-menu-2022/</loc>
 		<lastmod>2022-01-18T18:21:03+00:00</lastmod>
 		<image:image>
@@ -38,6 +30,14 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/Giggling-Squid_breakfast_2022_square.jpg</image:loc>
 			<image:title><![CDATA[Giggling Squid_breakfast_2022_square]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/news/20-questions-with-cofounders/</loc>
+		<lastmod>2022-01-19T11:02:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/Giggling-Squid-AndyPranee-Carousel-1.jpg</image:loc>
+			<image:title><![CDATA[Giggling-Squid-Andy&amp;Pranee-Carousel-1]]></image:title>
 		</image:image>
 	</url>
 </urlset>
