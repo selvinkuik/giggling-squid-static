@@ -37,6 +37,8 @@
 /branches/tunbridgewells.html /restaurant/tunbridge-wells/ 301
 /Sevenoaks /restaurant/sevenoaks/ 301
 /tunbridge-wells/ /restaurant/tunbridge-wells/ 301
+/restaurant-category/west-bridgford/ /restaurant/west-bridgford/ 301
+/restaurant/wandsworth/ /restaurant/wandsworth-delivery/ 301
 /aprons/ /news/ 301
 /blue-monday/ /news/ 301
 /chefs/ /news/ 301
@@ -80,6 +82,7 @@
 /creative-in-and-out-of-the-kitchen/ /news/ 301
 /valentines-day-giveaway/ /news/ 301
 /menu/kids/gs0081-kids-menu_web_01cq/ /menu/ 301
+/menu/lunch-pb2* /menu/ 301
 /wp-content/uploads/2016* /menu/ 301
 /wp-content/uploads/2018* /menu/ 301
 /wp-content/uploads/2019* /menu/ 301
