@@ -2,14 +2,14 @@
 /blog* /news/ 301
 /tag* /news/ 301
 /category* /news/ 301
-/click-collect/	/order-for-home/ 301
-/delivery/ /order-for-home/ 301
-/collect/ /order-for-home/ 301
-/book/ /restaurant/ 301
-/takeaway/ /order-for-home/
-/privacy-policy/ /privacy/ 301
-/allergen-charts/ /allergies/ 301
-/our-story/ /news/20-questions-with-cofounders/ 301
+/click-collect*	/order-for-home/ 301
+/delivery* /order-for-home/ 301
+/collect* /order-for-home/ 301
+/book* /restaurant/ 301
+/takeaway* /order-for-home/
+/privacy-policy* /privacy/ 301
+/allergen-charts* /allergies/ 301
+/our-story* /news/20-questions-with-cofounders/ 301
 /coronavirusupdate/ /covid-safety/ 301
 /pad-thai-recipe/ /news/pad-thai-recipe/ 301
 /thai-green-curry-recipe/ /news/thai-green-curry-recipe/ 301
