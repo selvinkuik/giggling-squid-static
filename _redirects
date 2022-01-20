@@ -1,7 +1,7 @@
 /index.html / 301
-/blog* /news/
-/tag* /news/
-/category* /news/
+/blog* /news/ 301
+/tag* /news/ 301
+/category* /news/ 301
 /click-collect/	/order-for-home/ 301
 /delivery/ /order-for-home/ 301
 /collect/ /order-for-home/ 301
