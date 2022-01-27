@@ -10,15 +10,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.gigglingsquid.com/news/new-breakfast-menu/</loc>
-		<lastmod>2022-01-21T14:04:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid_breakfast_2022_square.jpg</image:loc>
-			<image:title><![CDATA[Giggling Squid_breakfast_2022_square]]></image:title>
-			<image:caption><![CDATA[Giggling Squid breakfast menu in Mere Green]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.gigglingsquid.com/news/20-questions-with-cofounders/</loc>
 		<lastmod>2022-01-21T14:14:41+00:00</lastmod>
 		<image:image>
@@ -43,6 +34,15 @@
 			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid_veganuary_square.jpg</image:loc>
 			<image:title><![CDATA[Giggling Squid_veganuary_square]]></image:title>
 			<image:caption><![CDATA[Giggling Squid Veganuary specials 2022]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.gigglingsquid.com/news/new-breakfast-menu/</loc>
+		<lastmod>2022-01-26T19:01:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid_breakfast_2022_square.jpg</image:loc>
+			<image:title><![CDATA[Giggling Squid_breakfast_2022_square]]></image:title>
+			<image:caption><![CDATA[Giggling Squid breakfast menu in Mere Green]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
