@@ -19,15 +19,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.gigglingsquid.com/news/thai-green-curry-recipe/</loc>
-		<lastmod>2022-01-21T14:26:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid_thai-green-curry_menu.jpg</image:loc>
-			<image:title><![CDATA[Giggling Squid_thai green curry_menu]]></image:title>
-			<image:caption><![CDATA[Giggling Squid authentic Thai Green Curry recipe]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.gigglingsquid.com/news/veganuary-menu-2022/</loc>
 		<lastmod>2022-01-24T09:34:39+00:00</lastmod>
 		<image:image>
@@ -43,6 +34,15 @@
 			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid_breakfast_2022_square.jpg</image:loc>
 			<image:title><![CDATA[Giggling Squid_breakfast_2022_square]]></image:title>
 			<image:caption><![CDATA[Giggling Squid breakfast menu in Mere Green]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.gigglingsquid.com/news/thai-green-curry-recipe/</loc>
+		<lastmod>2022-02-22T10:37:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-squid-thai-green-curry-recipe.jpg</image:loc>
+			<image:title><![CDATA[Giggling squid - thai green curry- recipe]]></image:title>
+			<image:caption><![CDATA[Thai Green Curry Recipe - Giggling Squid]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
