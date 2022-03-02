@@ -1,0 +1,9 @@
+<svg id="Icon_-_menu" data-name="Icon - menu" xmlns="http://www.w3.org/2000/svg" width="16" height="20" viewBox="0 0 16 20">
+  <g id="Rectangle_181" data-name="Rectangle 181" fill="none" stroke="#8a2e6f" stroke-width="2">
+    <rect width="16" height="20" rx="1" stroke="none"/>
+    <rect x="1" y="1" width="14" height="18" fill="none"/>
+  </g>
+  <path id="Path_495" data-name="Path 495" d="M3,0C4.657,0,6-.2,6,1S4.657,2,3,2,0,2.208,0,1,1.343,0,3,0Z" transform="translate(5 5)" fill="#8a2e6f"/>
+  <path id="Path_496" data-name="Path 496" d="M3,0C4.657,0,6-.2,6,1S4.657,2,3,2,0,2.208,0,1,1.343,0,3,0Z" transform="translate(5 9)" fill="#8a2e6f"/>
+  <path id="Path_497" data-name="Path 497" d="M3,0C4.657,0,6-.2,6,1S4.657,2,3,2,0,2.208,0,1,1.343,0,3,0Z" transform="translate(5 13)" fill="#8a2e6f"/>
+</svg>
