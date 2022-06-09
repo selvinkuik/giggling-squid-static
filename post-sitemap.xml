@@ -71,21 +71,21 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.gigglingsquid.com/news/cocktail-recipes/</loc>
-		<lastmod>2022-05-12T14:59:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Rum-Fizzler.jpg</image:loc>
-			<image:title><![CDATA[Giggling Squid - News - Cocktail Recipes - Rum Fizzler]]></image:title>
-			<image:caption><![CDATA[Giggling Squid Thai Inspired Cocktail Recipe]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.gigglingsquid.com/news/outdoor-dining/</loc>
 		<lastmod>2022-06-01T11:51:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid-al-fresco.jpg</image:loc>
 			<image:title><![CDATA[Giggling Squid - al fresco]]></image:title>
 			<image:caption><![CDATA[Giggling Squid Outdoor Dining]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.gigglingsquid.com/news/cocktail-recipes/</loc>
+		<lastmod>2022-06-09T12:11:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Rum-Fizzler.jpg</image:loc>
+			<image:title><![CDATA[Giggling Squid - News - Cocktail Recipes - Rum Fizzler]]></image:title>
+			<image:caption><![CDATA[Giggling Squid Thai Inspired Cocktail Recipe]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
