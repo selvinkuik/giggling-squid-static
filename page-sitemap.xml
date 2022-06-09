@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.gigglingsquid.com/</loc>
-		<lastmod>2022-06-01T15:01:14+00:00</lastmod>
+		<lastmod>2022-06-09T11:26:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.gigglingsquid.com/careers/</loc>
@@ -31,15 +31,6 @@
 	<url>
 		<loc>https://www.gigglingsquid.com/privacy/</loc>
 		<lastmod>2022-04-14T09:04:07+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.gigglingsquid.com/allergies/</loc>
-		<lastmod>2022-05-04T15:51:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-squid-allergies-square01.jpg</image:loc>
-			<image:title><![CDATA[Giggling-squid-allergies-square01]]></image:title>
-			<image:caption><![CDATA[Giggling Squid allergies]]></image:caption>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://www.gigglingsquid.com/frequently-asked-questions/</loc>
@@ -72,6 +63,15 @@
 			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid_Gender-Pay-Gap_hero_desktop_1-scaled.jpg</image:loc>
 			<image:title><![CDATA[Giggling Squid_Gender Pay Gap_hero_desktop_1]]></image:title>
 			<image:caption><![CDATA[Giggling Squid Hove interiors]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.gigglingsquid.com/allergies/</loc>
+		<lastmod>2022-06-09T06:53:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-squid-allergies-square01.jpg</image:loc>
+			<image:title><![CDATA[Giggling-squid-allergies-square01]]></image:title>
+			<image:caption><![CDATA[Giggling Squid allergies]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
