@@ -10,15 +10,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.gigglingsquid.com/news/20-questions-with-cofounders/</loc>
-		<lastmod>2022-01-21T14:14:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid-AndyPranee-Square-1.jpg</image:loc>
-			<image:title><![CDATA[Giggling-Squid-Andy&amp;Pranee-Square-1]]></image:title>
-			<image:caption><![CDATA[Giggling Squid Co founders Andy and Pranee Laurillard]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.gigglingsquid.com/news/veganuary-menu-2022/</loc>
 		<lastmod>2022-01-24T09:34:39+00:00</lastmod>
 		<image:image>
@@ -86,6 +77,15 @@
 			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Rum-Fizzler.jpg</image:loc>
 			<image:title><![CDATA[Giggling Squid - News - Cocktail Recipes - Rum Fizzler]]></image:title>
 			<image:caption><![CDATA[Giggling Squid Thai Inspired Cocktail Recipe]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.gigglingsquid.com/news/20-questions-with-cofounders/</loc>
+		<lastmod>2022-06-13T09:58:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid-AndyPranee-Square-1.jpg</image:loc>
+			<image:title><![CDATA[Giggling-Squid-Andy&amp;Pranee-Square-1]]></image:title>
+			<image:caption><![CDATA[Giggling Squid Co founders Andy and Pranee Laurillard]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
