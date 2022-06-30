@@ -62,15 +62,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.gigglingsquid.com/news/outdoor-dining/</loc>
-		<lastmod>2022-06-01T11:51:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid-al-fresco.jpg</image:loc>
-			<image:title><![CDATA[Giggling Squid - al fresco]]></image:title>
-			<image:caption><![CDATA[Giggling Squid Outdoor Dining]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.gigglingsquid.com/news/cocktail-recipes/</loc>
 		<lastmod>2022-06-09T12:11:58+00:00</lastmod>
 		<image:image>
@@ -86,6 +77,15 @@
 			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid-AndyPranee-Square-1.jpg</image:loc>
 			<image:title><![CDATA[Giggling-Squid-Andy&amp;Pranee-Square-1]]></image:title>
 			<image:caption><![CDATA[Giggling Squid Co founders Andy and Pranee Laurillard]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.gigglingsquid.com/news/outdoor-dining/</loc>
+		<lastmod>2022-06-30T12:08:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid-al-fresco.jpg</image:loc>
+			<image:title><![CDATA[Giggling Squid - al fresco]]></image:title>
+			<image:caption><![CDATA[Giggling Squid Outdoor Dining]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
