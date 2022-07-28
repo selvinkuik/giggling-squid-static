@@ -29,13 +29,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.gigglingsquid.com/news/celebrating-female-chefs/</loc>
-		<lastmod>2022-03-07T15:57:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid-International-Womens-Day-Chef-4.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.gigglingsquid.com/news/mothers-day-lei/</loc>
 		<lastmod>2022-03-23T14:41:28+00:00</lastmod>
 		<image:image>
@@ -68,6 +61,13 @@
 		<lastmod>2022-07-07T14:24:07+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Untitled-design-16-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.gigglingsquid.com/news/celebrating-female-chefs/</loc>
+		<lastmod>2022-07-27T13:11:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/Giggling-Squid-International-Womens-Day-Chef-4.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
