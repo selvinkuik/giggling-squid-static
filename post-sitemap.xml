@@ -78,13 +78,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.gigglingsquid.com/news/mango-sticky-rice-pudding-recipe/</loc>
-		<lastmod>2022-10-04T15:25:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/152_Mango-Coconut-Sticky-Rice3.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.gigglingsquid.com/news/rising-star-red-duck-curry-recipe/</loc>
 		<lastmod>2022-10-04T15:25:38+00:00</lastmod>
 		<image:image>
@@ -138,6 +131,13 @@
 		<lastmod>2022-10-04T15:27:35+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/092_Thai-Green-Curry3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.gigglingsquid.com/news/mango-sticky-rice-pudding-recipe/</loc>
+		<lastmod>2022-10-05T13:33:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/152_Mango-Coconut-Sticky-Rice3.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
