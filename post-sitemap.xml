@@ -71,13 +71,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.gigglingsquid.com/news/cookbook/</loc>
-		<lastmod>2022-10-03T08:05:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/GigglingSquid_IGsquare_1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.gigglingsquid.com/news/pad-thai-recipe/</loc>
 		<lastmod>2022-10-04T15:27:14+00:00</lastmod>
 		<image:image>
@@ -138,6 +131,13 @@
 		<lastmod>2022-10-08T18:04:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/108_Rising-Star-Red-Duck-Curry3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.gigglingsquid.com/news/cookbook/</loc>
+		<lastmod>2022-11-02T12:48:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.gigglingsquid.com/wp-content/uploads/GigglingSquid_IGsquare_1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
